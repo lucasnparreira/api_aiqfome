@@ -11,8 +11,8 @@ Você precisará ter instalado:
 ```
 1. Clonar e Configurar o Ambiente
 ### Clone o repositório 
-git clone <url-do-seu-repositorio>
-cd <nome-do-diretorio>
+git clone https://github.com/lucasnparreira/api_aiqfome 
+cd api_aiqfome
 
 ### Cria e ativa o ambiente virtual (recomendado)
 ```
